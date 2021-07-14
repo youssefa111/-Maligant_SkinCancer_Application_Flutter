@@ -22,10 +22,10 @@ Application for detect whether the skin is Malignant or Benign.
 
 # Screenshots
 
-<img src = "_Screenshots/1.png" height="400" width="200"><img src = "_Screenshots/2.png" height="400" width="200"><img src = "_Screenshots/3.png" height="400" width="200"> 
+<img src = "_Screenshots/1.png" height="400" width="200">  <img src = "_Screenshots/2.png" height="400" width="200">  <img src = "_Screenshots/3.png" height="400" width="200"> 
 
 
-<img src = "_Screenshots/4.PNG" height="400" width="200"><img src = "_Screenshots/5.PNG" height="400" width="200"> <img src = "_Screenshots/6.png" height="400" width="200">
+<img src = "_Screenshots/4.PNG" height="400" width="200">  <img src = "_Screenshots/5.PNG" height="400" width="200">  <img src = "_Screenshots/6.png" height="400" width="200">
 
 
 <img src = "_Screenshots/7.png" height="400" width="200">
