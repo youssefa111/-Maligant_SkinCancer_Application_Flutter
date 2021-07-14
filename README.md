@@ -1,4 +1,4 @@
-# Maligant_SkinCancer_Flutter_With_CNN Model_application
+# Malignant_SkinCancer_Flutter_With_CNN Model_application
 
 Application for detect whether the skin is Malignant or Benign.
 
