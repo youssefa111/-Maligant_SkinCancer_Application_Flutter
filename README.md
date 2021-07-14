@@ -1,16 +1,31 @@
-# gp
+# Maligant_SkinCancer_Flutter_With_CNN Model_application
 
-A new Flutter project.
+Application for detect whether the skin is Malignant or Benign.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Technologies
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter to make Cross-platform application for all users ( ios - android )
+- Firebase to Save data and database online and for communcate
+- Flask to Connect the Cnn Model with flutter
+- Deep Learning (Cnn Model) becuase CNN is the best solution to use it in Images to can extract the Features.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Properties of Application
+
+- Login & registration System
+- Test Skin
+- View History of testing
+- chat with other Patients to help each other
+- chat with doctor (Future Work)
+
+
+# Screenshots
+
+<img src = "_Screenshots/1.png" height="400" width="200"><img src = "_Screenshots/2.png" height="400" width="200"><img src = "_Screenshots/3.png" height="400" width="200"> 
+
+
+<img src = "_Screenshots/4.png" height="400" width="200"><img src = "_Screenshots/5.png" height="400" width="200"> <img src = "_Screenshots/6.png" height="400" width="200">
+
+
+<img src = "_Screenshots/7.png" height="400" width="200">
